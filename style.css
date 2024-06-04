@@ -85,3 +85,34 @@ header a {
   width: 45vw;
   height: 35vh;
 }
+
+/* Footer */
+footer {
+  background-color: #129799;
+  display: flex;
+  justify-content: center;
+}
+
+footer section {
+  width: 90vw;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+footer div {
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+}
+
+footer ul {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+}
+
+footer a {
+  color: white;
+}
