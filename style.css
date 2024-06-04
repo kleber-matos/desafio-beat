@@ -71,3 +71,17 @@ header a {
   font-size: 1.2rem;
   margin-left: 1rem;
 }
+
+.ilustracao {
+  height: 80vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #ffa185;
+}
+
+.ilustracao img {
+  width: 45vw;
+  height: 35vh;
+}
