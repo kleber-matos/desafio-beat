@@ -53,3 +53,21 @@ header a {
   justify-content: space-between;
   color: white;
 }
+
+.aquarela {
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  background-color: #ffa185;
+}
+
+.aquarela h2 {
+  font-size: 2rem;
+  color: white;
+  margin-left: 1rem;
+}
+.aquarela p {
+  font-size: 1.2rem;
+  margin-left: 1rem;
+}
